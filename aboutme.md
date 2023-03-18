@@ -4,11 +4,10 @@ title: About me
 subtitle: 간단한 자기소개
 ---
 
-# 안녕하세요,
-세기말 프로그래밍 종결자입니다.    
+## 안녕하세요,
+최고의 개발자를 희망하는 김태영입니다.   
 <img src="assets/img/1679113472158.jpg" width="30%" height="30%" title="me" alt="me"></img>
 
-- 김태영
 - 2003년생
 - 한세대 ICT융합학과 22학번
 - (희망) Application Architect
