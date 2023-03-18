@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 간단한 자기소개
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## 안녕하세요. 
+### 저는...
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 김태영
+- 2003년생
+- 한세대 ICT융합학과 22학번
+- (희망) Application Architect
+- (희망) 연봉 20,000,000,000원
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
