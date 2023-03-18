@@ -4,7 +4,8 @@ title: About me
 subtitle: 간단한 자기소개
 ---
 
-## 안녕하세요. 
+# 안녕하세요 
+## 세기말 프로그래밍 종결자입니다
 <img src="assets/img/1679113472158.jpg" width="30%" height="30%" title="me" alt="me"></img>
 
 - 김태영
