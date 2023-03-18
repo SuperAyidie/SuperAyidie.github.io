@@ -5,8 +5,6 @@ subtitle: 간단한 자기소개
 ---
 
 ## 안녕하세요. 
-### 저는...
-
 <img src="assets/img/1679113472158.jpg" width="30%" height="30%" title="me" alt="me"></img>
 
 - 김태영
