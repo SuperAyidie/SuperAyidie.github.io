@@ -15,8 +15,8 @@ subtitle: 간단한 자기소개
 ### 더 많은 정보
 
 #### 연락처
-[Gmail](ayidie0312@gmail.com)
-[NaverMail]()
-[Discord]()
+[>Gmail<](ayidie0312@gmail.com)
+[>NaverMail<]()
+[>Discord<]()
 
 
