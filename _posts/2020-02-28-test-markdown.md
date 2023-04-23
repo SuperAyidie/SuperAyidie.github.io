@@ -19,12 +19,67 @@ comments: true
 
 <!----- CONTACT INFO ----->
 
-***
-##### Phone: 010-6623-0369  |  Email: <ebodebod369@gmail.com> |  Address: 경기도 시흥시 장곡동
-***
+## CONTACT
+<div align="center">
+Phone: 010-6623-0369ㅤ|ㅤEmail: ebodebod369@gmail.comㅤ|ㅤAddress: 경기도 시흥시 장곡동 </div>
 
 <!----- EDUCATION HISTORY ----->
-## Education
+## 학력
+1. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
+
+2. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
+   
+   
+<!----- CAREER HISTORY ----->
+## 경력
+1. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
+
+2. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
+   
+   
+   <!----- INTERN HISTORY ----->
+## 인턴/대외 활동
+1. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
+
+2. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)\
+   
+   
+   <!----- OVERSEAS EXPERIENCE ----->
+## 해외 경험
+1. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
+
+2. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
+   
+   
+   <!----- LANGUAGE ----->
+## 어학
+1. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
+
+2. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
+   
+   
+   <!----- CERTIFICATE HISTORY ----->
+## 자격증
 1. **DEGREE**, *Major* (or *Subject*)  
    Institution Name, City, State (Graduation Year)  
    GPA: X.XX (if you want to include your GPA)
