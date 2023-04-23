@@ -42,13 +42,8 @@ PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시<
    
 <!----- OVERSEAS EXPERIENCE ----->
 ### 해외 경험
-1. **DEGREE**, *Major* (or *Subject*)  
-   Institution Name, City, State (Graduation Year)  
-   GPA: X.XX (if you want to include your GPA)
-
-2. **DEGREE**, *Major* (or *Subject*)  
-   Institution Name, City, State (Graduation Year)  
-   GPA: X.XX (if you want to include your GPA)
+1. **협업**    
+   다양한 국적으로 이루어진 커뮤니티에서 서로를 보완하며 응용 프로그램 개발 
 
 <!----- LANGUAGE ----->
 ### 어학
