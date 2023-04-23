@@ -36,9 +36,8 @@ PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시<
 1. **ICPC 수상** 
    ICPC 국제 프로그래밍 대회 수상 (2028)
 
-2. **DEGREE**, *Major* (or *Subject*)  
-   Institution Name, City, State (Graduation Year)  
-   GPA: X.XX (if you want to include your GPA)\
+2. **장학**
+   한세대학교 성적장학금
    
    
    <!----- OVERSEAS EXPERIENCE ----->
