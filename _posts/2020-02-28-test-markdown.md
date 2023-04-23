@@ -21,7 +21,7 @@ comments: true
 
 ## CONTACT
 <div align="center">
-PHONE:010-6623-0369ㅤ|ㅤEMAIL:ebodebod369@gmail.comㅤ|ㅤADDRESS:경기도 시흥시</div>
+PHONE:010-6623-0369ㅤ|EMAIL:ebodebod369@gmail.comㅤ|ADDRESS:경기도 시흥시</div>
 
 <!----- EDUCATION HISTORY ----->
 ## 학력
