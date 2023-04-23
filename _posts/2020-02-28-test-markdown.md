@@ -4,12 +4,13 @@ title: 이력서
 subtitle: 김태영, 응용 프로그램 개발자
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [이력 이력서]
+tags: [이력서]
 comments: true
 ---
 
 <!----- PROFILE PICTURE ----->
-<img src="assets/img/KakaoTalk_20230423_115724023.jpg" alt="profile picture" width="150" align="left">
+<img src="https://user-images.githubusercontent.com/127084656/233834241-e16a1e19-c39d-496b-83f5-ec715a5a01f6.jpg" width="150">
+
 
 <!----- NAME, APPLYING FIELD, AGE ----->
 김태영  
@@ -22,7 +23,8 @@ comments: true
 ## CONTACT
 <div align="center">
 PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시</div>
-
+   
+   
 <!----- EDUCATION HISTORY ----->
 ## 학력
 1. **고등학교 졸업**  
@@ -31,6 +33,7 @@ PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시<
 2. **대학교 졸업**   
    한세대학교, 경기 군포 당정 (2028)  
    
+      
    <!----- INTERN HISTORY ----->
 ## 인턴/대외 활동
 1. **ICPC 수상**    
@@ -50,6 +53,7 @@ PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시<
    Institution Name, City, State (Graduation Year)  
    GPA: X.XX (if you want to include your GPA)
    
+      
    
    <!----- LANGUAGE ----->
 ## 어학
@@ -60,6 +64,7 @@ PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시<
 3. **토익 스피킹 Advanced High (200점)**
    
    
+      
    <!----- CERTIFICATE HISTORY ----->
 ## 자격증
 1. **ADsP** 
