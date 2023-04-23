@@ -8,59 +8,31 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+<!----- PROFILE PICTURE ----->
+<img src="https://link-to-your-profile-picture.jpg" alt="Your Name's profile picture" width="150" align="left">
 
-**Here is some bold text**
+<!----- NAME, APPLYING FIELD, AGE ----->
+YOUR_NAME 김태영  
+Applying Field: 응용 프로그램 개발자  
+Age: 2003년 6월 9일생  
+<br clear="left">
 
-## Here is a secondary heading
+***
+<!----- CONTACT INFO ----->
+#### Phone: `010-6623-0369`
+#### Email: <ebodebod369@gmail.com>
+#### Address: `YOUR_STREET_ADDRESS, CITY, STATE, ZIP_CODE`   
+***
 
-Here's a useless table:
+<!----- EDUCATION HISTORY ----->
+## Education
+1. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
+2. **DEGREE**, *Major* (or *Subject*)  
+   Institution Name, City, State (Graduation Year)  
+   GPA: X.XX (if you want to include your GPA)
 
 ### Notification
 
