@@ -33,10 +33,10 @@ PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시<
    
    <!----- INTERN HISTORY ----->
 ## 인턴/대외 활동
-1. **ICPC 수상** 
+1. **ICPC 수상**    
    ICPC 국제 프로그래밍 대회 수상 (2028)
 
-2. **장학**
+2. **장학**   
    한세대학교 성적장학금
    
    
