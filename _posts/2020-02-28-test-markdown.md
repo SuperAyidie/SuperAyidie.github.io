@@ -21,7 +21,7 @@ comments: true
 
 ## CONTACT
 <div align="center">
-Phone: 010-6623-0369ㅤ|ㅤEmail: ebodebod369@gmail.comㅤ|ㅤAddress: 경기도 시흥시 장곡동 </div>
+PHONE:010-6623-0369ㅤ|ㅤEMAIL:ebodebod369@gmail.comㅤ|ㅤADDRESS:경기도 시흥시 장곡동</div>
 
 <!----- EDUCATION HISTORY ----->
 ## 학력
