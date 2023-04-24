@@ -19,13 +19,13 @@ comments: true
 <br clear="left">
 
 <!----- CONTACT INFO ----->
-### CONTACT
+#### CONTACT
 <div align="center">
 PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시</div>
    
   
 <!----- EDUCATION HISTORY ----->
-### 학력
+#### 학력
 1. **고등학교 졸업**  
    장곡고등학교, 경기 시흥 장곡 (2022)    
 
@@ -33,7 +33,7 @@ PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시<
    한세대학교, 경기 군포 당정 (2028)  
        
 <!----- INTERN HISTORY ----->
-### 인턴/대외 활동
+#### 인턴/대외 활동
 1. **ICPC 수상**    
    ICPC 국제 프로그래밍 대회 수상 (2028)
 
@@ -41,12 +41,12 @@ PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시<
    한세대학교 성적장학금
    
 <!----- OVERSEAS EXPERIENCE ----->
-### 해외 경험
+#### 해외 경험
 1. **협업**    
    다양한 국적으로 이루어진 커뮤니티에서 서로를 보완하며 '항공기 설계를 위한 인공지능' 개발 
 
 <!----- LANGUAGE ----->
-### 어학
+#### 어학
 1. **원어민과 원활한 대화 가능**
     
 2. **토익 950점**
@@ -54,14 +54,14 @@ PHONE:010-6623-0369ㅤEMAIL:ebodebod369@gmail.comㅤADDRESS:경기도 시흥시<
 3. **토익 스피킹 Advanced High (200점)**
      
 <!----- CERTIFICATE HISTORY ----->
-### 자격증
+#### 자격증
 1. **ADsP** 
    ADsP 데이터 분석 준전문가 자격증 (2023)
 
 2. **정보처리기사**
    정보처리기사 (2027)
    
-### 자기소개서
+#### 자기소개서
 
 **[성장 과정]**
 
