@@ -1,17 +1,25 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Did you know?
+subtitle: IT관련 흥미로운 사실들
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [facts, fact]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+1. 최초의 컴퓨터가구: 최초의 프로그래밍 가능한 디지털 컴퓨터는 1936년에 제작되었습니다. 이 장치는 'Z1'으로 불리었으며, 콘라트 주제가 만들었습니다. Z1은 프로그래밍 가능하고 전자식이 아닌 기계적 컴퓨터였습니다.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+2. "버그"라는 용어: 1947년, 하버드 대학의 Mark II 컴퓨터에서 첫 번째 컴퓨터 "버그"가 발견되었습니다. 이것은 실제로 작은 나방이었으며, 이 나방이 장비를 방해해서 오류를 일으켰습니다. 이 때문에 컴퓨터에 문제가 생기면 '버그가 있다'라는 표현이 생겨났습니다.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+3. 인터넷 사용자: 2023년 현재, 전 세계 인구의 약 60% 이상이 인터넷을 사용하고 있습니다. 이 수치는 지속적으로 증가하고 있습니다.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+4. QWERTY 키보드: QWERTY 배열의 키보드는 원래 타자기에 최적화되어 설계되었습니다. 이 배열은 가장 자주 사용되는 글자들이 서로 멀리 떨어지게 하여 타자기의 키가 서로 붙는 것을 방지하는 것이 목표였습니다.
+
+5. 암호화폐: 비트코인이 가장 잘 알려진 암호화폐이지만, 사실 2023년 현재로서는 5000개 이상의 다른 암호화폐가 존재합니다.
+
+6. 크롤러: 검색 엔진은 인터넷의 수백억 페이지를 정기적으로 크롤링하여 사용자의 검색 질문에 대한 가장 관련성 높은 결과를 제공합니다. 이들은 인터넷의 방대한 정보를 정리하고 구성하는 데 필수적입니다.
+
+7. 빅데이터: 우리는 매 분마다 엄청난 양의 데이터를 생성합니다. 이런 데이터의 분석은 통계, 예측, 패턴 식별 등 여러 분야에서 중요한 역할을 합니다. 
+
+8. 전자쓰레기: 전 세계에서 매년 수십억 톤의 전자쓰레기가 생산되며, 이는 환경에 큰 부담을 주고 있습니다. 이에 대한 해결책을 찾는 것은 IT 업계의 중요한 도전 과제 중 하나입니다.
