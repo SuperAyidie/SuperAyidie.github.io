@@ -15,6 +15,6 @@ subtitle: 간단한 자기소개
 ### 더 많은 정보
 
 #### 연락처
-[>Gmail<](https://mail.google.com/)
+[>369.Kim.t.y@gmail.com<](https://mail.google.com/)
 
 
